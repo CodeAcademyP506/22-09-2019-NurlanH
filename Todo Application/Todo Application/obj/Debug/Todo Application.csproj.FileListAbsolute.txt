@@ -1,0 +1,12 @@
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\bin\Debug\Todo Application.exe.config
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\bin\Debug\Todo Application.exe
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\bin\Debug\Todo Application.pdb
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo Application.csprojAssemblyReference.cache
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo_Application.Form1.resources
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo_Application.Properties.Resources.resources
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo_Application.form2.resources
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo Application.csproj.GenerateResource.cache
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo Application.csproj.CoreCompileInputs.cache
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo Application.exe
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo Application.pdb
+C:\Users\nhcoy\source\repos\Todo Application\Todo Application\obj\Debug\Todo_Application.Form3.resources
